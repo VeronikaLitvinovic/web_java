@@ -8,6 +8,6 @@ public class ErrorController {
 
     @RequestMapping("/error")
     public String handleError() {
-        return "error_404"
+        return "error_404";
     }
 }

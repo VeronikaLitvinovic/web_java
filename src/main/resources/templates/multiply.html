@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Multiply</title>
+</head>
+<body>
+<h1>Multiply</h1>
+<form th:action="@{/multiply}" method="post">
+    <label for="number">Number:</label>
+    <input type="number" id="number" name="number" th:value="${number}"><br>
+
+    <label for="multiplier">Multiplier:</label>
+    <input type="number" id="multiplier" name="multiplier" th:value="${multiplier}"><br>
+
+    <button type="submit">Multiply</button>
+</form>
+</body>
+</html>

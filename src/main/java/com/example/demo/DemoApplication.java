@@ -23,18 +23,9 @@ public class DemoApplication {
 	}
 	@GetMapping("/hello")
 	public String hello(@RequestParam(value = "name", defaultValue = "World") String name) {
-		return String.format("Hello %s!", name);
+		return String.format("Hello %s", name);
 	}
 
-	@GetMapping("/multiply")
-	public String getMultiplyPage() {
-		return "multiply";
-	}
 
-//	@PostMapping("/result")
-//	public String getResult(@RequestParam int factorA, @RequestParam int factorB, Model model) {
-//		Multiplication multiplication = multiplicationService.createMultiplication(factorA, factorB);
-//		model.addAttribute("multiplication", multiplication);
-//		return "result";
-//	}
+
 }

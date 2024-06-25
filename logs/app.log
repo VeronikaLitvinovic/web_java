@@ -3182,3 +3182,446 @@ java.lang.IllegalArgumentException: Invalid character found in method name [0x16
 2024-06-25 19:33:25.949 [http-nio-8080-exec-9] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
 2024-06-25 19:33:25.951 [http-nio-8080-exec-9] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
 2024-06-25 19:33:25.954 [http-nio-8080-exec-9] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-06-25 21:14:30.982 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:14:30.988 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:14:30.988 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:14:30.989 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:14:31.641 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 26528 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:14:31.645 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:14:32.850 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:14:32.868 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:14:32.870 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:14:32.870 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:14:32.939 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:14:32.939 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1236 ms
+2024-06-25 21:14:33.369 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:14:33.398 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:14:33.410 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.267 seconds (process running for 3.877)
+2024-06-25 21:14:34.365 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:14:34.365 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:14:34.366 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:16:44.449 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:16:44.455 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:16:44.455 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:16:44.455 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:16:44.974 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 31020 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:16:44.977 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:16:45.988 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:16:46.002 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:16:46.004 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:16:46.004 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:16:46.072 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:16:46.072 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1055 ms
+2024-06-25 21:16:46.404 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:16:46.434 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:16:46.441 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.884 seconds (process running for 3.112)
+2024-06-25 21:16:47.117 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:16:47.117 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:16:47.118 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:21:30.760 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:21:30.760 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:21:30.760 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:21:30.760 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:21:31.269 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 21792 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:21:31.272 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:21:32.175 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:21:32.190 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:21:32.192 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:21:32.192 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:21:32.257 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:21:32.257 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 944 ms
+2024-06-25 21:21:32.594 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:21:32.615 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:21:32.622 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.742 seconds (process running for 2.974)
+2024-06-25 21:21:36.541 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:21:36.541 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:21:36.542 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-06-25 21:22:20.074 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:22:20.080 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:22:20.080 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:22:20.080 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:22:20.548 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 5812 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:22:20.551 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:22:21.388 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:22:21.398 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:22:21.401 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:22:21.402 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:22:21.447 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:22:21.447 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 853 ms
+2024-06-25 21:22:21.744 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:22:21.760 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:22:21.766 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.624 seconds (process running for 2.675)
+2024-06-25 21:22:25.933 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:22:25.934 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:22:25.935 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:26:03.450 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:26:03.455 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:26:03.455 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:26:03.455 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:26:03.975 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 25204 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:26:03.979 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:26:04.972 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:26:04.987 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:26:04.988 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:26:04.989 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:26:05.052 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:26:05.053 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1030 ms
+2024-06-25 21:26:05.449 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:26:05.469 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:26:05.476 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.931 seconds (process running for 3.877)
+2024-06-25 21:26:13.005 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:26:13.005 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:26:13.006 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-06-25 21:28:13.441 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:28:13.447 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:28:13.447 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:28:13.447 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:28:13.928 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 21108 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:28:13.932 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:28:14.813 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:28:14.830 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:28:14.832 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:28:14.832 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:28:14.896 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:28:14.897 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 918 ms
+2024-06-25 21:28:15.256 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:28:15.273 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:28:15.279 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.737 seconds (process running for 2.884)
+2024-06-25 21:28:18.622 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:28:18.623 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:28:18.625 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-06-25 21:29:22.366 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:29:22.371 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:29:22.371 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:29:22.372 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:29:22.830 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 12056 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:29:22.832 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:29:23.728 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:29:23.743 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:29:23.744 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:29:23.745 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:29:23.813 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:29:23.813 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 937 ms
+2024-06-25 21:29:24.231 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:29:24.249 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:29:24.255 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.809 seconds (process running for 2.9)
+2024-06-25 21:29:28.252 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:29:28.253 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:29:28.253 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-06-25 21:29:28.289 [http-nio-8080-exec-1] INFO  com.example.demo.DemoApplication - Accessing /multiply endpoint
+2024-06-25 21:29:29.855 [http-nio-8080-exec-3] INFO  com.example.demo.DemoApplication - Accessing /multiply endpoint
+2024-06-25 21:29:30.302 [http-nio-8080-exec-4] INFO  com.example.demo.DemoApplication - Accessing /multiply endpoint
+2024-06-25 21:29:30.523 [http-nio-8080-exec-5] INFO  com.example.demo.DemoApplication - Accessing /multiply endpoint
+2024-06-25 21:29:30.692 [http-nio-8080-exec-6] INFO  com.example.demo.DemoApplication - Accessing /multiply endpoint
+2024-06-25 21:29:30.875 [http-nio-8080-exec-7] INFO  com.example.demo.DemoApplication - Accessing /multiply endpoint
+2024-06-25 21:31:01.701 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:31:01.710 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:31:01.710 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:31:01.710 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:31:02.159 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 25700 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:31:02.162 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:31:03.038 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:31:03.052 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:31:03.054 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:31:03.054 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:31:03.111 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:31:03.112 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 906 ms
+2024-06-25 21:31:03.460 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:31:03.476 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:31:03.483 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.681 seconds (process running for 2.991)
+2024-06-25 21:31:32.173 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:31:32.179 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:31:32.179 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:31:32.179 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:31:32.645 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 9096 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:31:32.649 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:31:33.518 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:31:33.531 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:31:33.533 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:31:33.534 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:31:33.585 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:31:33.585 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 890 ms
+2024-06-25 21:31:33.935 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:31:33.956 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:31:33.963 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.707 seconds (process running for 2.774)
+2024-06-25 21:31:34.019 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:31:34.019 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:31:34.020 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:32:04.089 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:32:04.095 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:32:04.095 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:32:04.096 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:32:04.566 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 29912 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:32:04.571 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:32:05.468 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:32:05.484 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:32:05.486 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:32:05.487 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:32:05.659 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:32:05.660 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1032 ms
+2024-06-25 21:32:06.065 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:32:06.084 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:32:06.091 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.91 seconds (process running for 3.007)
+2024-06-25 21:32:06.776 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:32:06.776 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:32:06.777 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:34:06.679 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:34:06.684 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:34:06.684 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:34:06.684 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:34:07.146 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 24600 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:34:07.150 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:34:07.987 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:34:07.998 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:34:07.999 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:34:08.000 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:34:08.052 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:34:08.053 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 851 ms
+2024-06-25 21:34:08.393 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:34:08.409 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:34:08.415 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.658 seconds (process running for 2.735)
+2024-06-25 21:34:14.625 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:34:14.626 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:34:14.628 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:52:31.378 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:52:31.385 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:52:31.385 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:52:31.386 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:52:32.020 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 5140 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:52:32.023 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:52:33.402 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:52:33.419 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:52:33.421 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:52:33.422 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:52:33.489 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:52:33.489 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1417 ms
+2024-06-25 21:52:33.949 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:52:33.969 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:52:33.976 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.413 seconds (process running for 4.355)
+2024-06-25 21:53:02.216 [http-nio-8080-exec-3] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:53:02.216 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:53:02.217 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:54:44.319 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:54:44.324 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:54:44.325 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:54:44.325 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:54:44.770 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 26864 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:54:44.773 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:54:45.654 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:54:45.669 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:54:45.671 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:54:45.671 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:54:45.737 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:54:45.737 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 915 ms
+2024-06-25 21:54:46.045 [main] WARN  org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-06-25 21:54:46.102 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:54:46.119 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:54:46.126 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.713 seconds (process running for 2.963)
+2024-06-25 21:54:51.318 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:54:51.318 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:54:51.319 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 21:56:00.117 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 21:56:00.122 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 21:56:00.123 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 21:56:00.123 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 21:56:00.566 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 6040 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 21:56:00.569 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 21:56:01.386 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 21:56:01.397 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:56:01.398 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 21:56:01.399 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 21:56:01.452 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 21:56:01.452 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 839 ms
+2024-06-25 21:56:01.803 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 21:56:01.820 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 21:56:01.827 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.622 seconds (process running for 3.001)
+2024-06-25 21:56:06.251 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 21:56:06.252 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 21:56:06.254 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-06-25 22:05:31.437 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:05:31.444 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:05:31.444 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:05:31.444 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:05:32.268 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 23240 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:05:32.272 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:05:33.447 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:05:33.466 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:05:33.468 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:05:33.468 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:05:33.532 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:05:33.532 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1186 ms
+2024-06-25 22:05:33.959 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:05:33.976 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 22:05:33.982 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.407 seconds (process running for 4.026)
+2024-06-25 22:05:34.650 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 22:05:34.651 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 22:05:34.652 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 22:10:45.837 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:10:45.842 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:10:45.842 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:10:45.842 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:10:46.315 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 15852 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:10:46.319 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:10:47.196 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:10:47.213 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:10:47.215 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:10:47.215 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:10:47.281 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:10:47.281 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 922 ms
+2024-06-25 22:10:47.618 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:10:47.637 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 22:10:47.644 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.711 seconds (process running for 2.822)
+2024-06-25 22:10:50.258 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 22:10:50.259 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 22:10:50.262 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2024-06-25 22:27:15.367 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:27:15.373 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:27:15.373 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:27:15.373 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:27:15.880 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 324 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:27:15.883 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:27:17.036 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:27:17.061 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:27:17.063 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:27:17.064 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:27:17.143 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:27:17.144 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1204 ms
+2024-06-25 22:27:17.584 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:27:17.603 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 22:27:17.609 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.122 seconds (process running for 3.77)
+2024-06-25 22:27:17.828 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 22:27:17.828 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 22:27:17.829 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 22:27:50.050 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:27:50.055 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:27:50.055 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:27:50.055 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:27:50.490 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 25260 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:27:50.492 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:27:51.315 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:27:51.327 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:27:51.328 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:27:51.329 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:27:51.386 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:27:51.386 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 852 ms
+2024-06-25 22:27:51.775 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:27:51.804 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 22:27:51.811 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.69 seconds (process running for 2.664)
+2024-06-25 22:27:54.425 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 22:27:54.425 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 22:27:54.426 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2024-06-25 22:37:14.665 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:37:14.671 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:37:14.671 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:37:14.671 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:37:15.311 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 13248 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:37:15.316 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:37:16.403 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:37:16.422 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:37:16.424 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:37:16.424 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:37:16.493 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:37:16.494 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1109 ms
+2024-06-25 22:37:16.684 [main] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'multiplyController' method 
+com.example.demo.controllers.MultiplyController#getMultiplyPage()
+to {GET [/multiply]}: There is already 'demoApplication' bean method
+com.example.demo.DemoApplication#getMultiplyPage() mapped.
+2024-06-25 22:37:16.689 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-06-25 22:37:16.706 [main] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-06-25 22:37:16.728 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'multiplyController' method 
+com.example.demo.controllers.MultiplyController#getMultiplyPage()
+to {GET [/multiply]}: There is already 'demoApplication' bean method
+com.example.demo.DemoApplication#getMultiplyPage() mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1788) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.10.jar:6.1.10]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) [spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) [spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335) [spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363) [spring-boot-3.3.1.jar:3.3.1]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352) [spring-boot-3.3.1.jar:3.3.1]
+	at com.example.demo.DemoApplication.main(DemoApplication.java:22) [classes/:?]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'multiplyController' method 
+com.example.demo.controllers.MultiplyController#getMultiplyPage()
+to {GET [/multiply]}: There is already 'demoApplication' bean method
+com.example.demo.DemoApplication#getMultiplyPage() mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986) ~[?:?]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1835) ~[spring-beans-6.1.10.jar:6.1.10]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1784) ~[spring-beans-6.1.10.jar:6.1.10]
+	... 16 more
+2024-06-25 22:37:26.586 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:37:26.592 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:37:26.592 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:37:26.592 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:37:27.046 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 21272 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:37:27.049 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:37:27.928 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:37:27.940 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:37:27.941 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:37:27.942 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:37:28.001 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:37:28.001 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 908 ms
+2024-06-25 22:37:28.384 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:37:28.404 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 22:37:28.411 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.746 seconds (process running for 2.777)
+2024-06-25 22:37:34.051 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 22:37:34.051 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 22:37:34.052 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 22:57:49.599 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 22:57:49.604 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 22:57:49.604 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 22:57:49.604 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 22:57:50.153 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 17312 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 22:57:50.160 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 22:57:51.478 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 22:57:51.505 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:57:51.510 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 22:57:51.510 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 22:57:51.592 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 22:57:51.592 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1360 ms
+2024-06-25 22:57:52.041 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 22:57:52.063 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 22:57:52.071 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.392 seconds (process running for 3.527)
+2024-06-25 22:57:57.517 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 22:57:57.517 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 22:57:57.519 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-06-25 23:05:12.094 [main] INFO  com.example.demo.DemoApplication - This is an info message
+2024-06-25 23:05:12.100 [main] WARN  com.example.demo.DemoApplication - This is a warn message
+2024-06-25 23:05:12.100 [main] FATAL com.example.demo.DemoApplication - This is a fatal message
+2024-06-25 23:05:12.101 [main] ERROR com.example.demo.DemoApplication - This is an error message
+2024-06-25 23:05:12.663 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 22.0.1 with PID 25748 (C:\Users\ASUS\Downloads\demo1\demo\target\classes started by ASUS in C:\Users\ASUS\Downloads\demo1\demo)
+2024-06-25 23:05:12.666 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2024-06-25 23:05:13.708 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-06-25 23:05:13.726 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-06-25 23:05:13.728 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-25 23:05:13.729 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-06-25 23:05:13.790 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-06-25 23:05:13.790 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1067 ms
+2024-06-25 23:05:14.259 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-06-25 23:05:14.278 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-06-25 23:05:14.285 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.1 seconds (process running for 3.282)
+2024-06-25 23:05:15.177 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-25 23:05:15.177 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-25 23:05:15.178 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms

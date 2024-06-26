@@ -20,14 +20,16 @@ public class MultiplyController {
     public String handleMultiply(@RequestParam("number") int number,
                                  @RequestParam("multiplier") int multiplier) {
         int result = number * multiplier;
-        return "redirect:/result?number=" + number + "&result=" + result;
+        return "redirect:/result?number=" + number + "&multiplier=" + multiplier + "&result=" + result;
     }
 
     @GetMapping("/result")
     public String getResultPage(@RequestParam("number") int number,
+                                @RequestParam("multiplier") int multiplier,
                                 @RequestParam("result") int result,
                                 Model model) {
         model.addAttribute("number", number);
+        model.addAttribute("multiplier", multiplier);
         model.addAttribute("result", result);
         return "result";
     }

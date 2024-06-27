@@ -4,14 +4,15 @@
     <title>Multiplying</title>
 </head>
 <body>
+<a href="/"><button>Back</button></a>
 <h1>Multiply</h1>
 <form th:action="@{/multiply}" method="post">
     <label for="number">Number:</label>
     <input  id="number" name="number" th:value="${number}"><br>
-
+    <br />
     <label for="multiplier">Multiplier:</label>
     <input  id="multiplier" name="multiplier" th:value="${multiplier}"><br>
-
+    <br />
     <button type="submit">Multiply</button>
 </form>
 </body>

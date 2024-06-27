@@ -24,6 +24,6 @@ class MyErrorController implements ErrorController {
                 return "error_500";
             }
         }
-        return "error_404";
+        return "error";
     }
 }

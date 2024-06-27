@@ -22,14 +22,12 @@ public class MultiplyController {
     public String handleMultiply(@RequestParam("number") String numberStr,
                                  @RequestParam("multiplier") String multiplierStr,
                                  Model model) {
-        try {
+
             int number = Integer.parseInt(numberStr);
             int multiplier = Integer.parseInt(multiplierStr);
             int result = number * multiplier;
             return "redirect:/result?number=" + number + "&multiplier=" + multiplier + "&result=" + result;
-        } catch (NumberFormatException e) {
-            throw new ValidationException("Please enter valid numbers.");
-        }
+
     }
 
     @GetMapping("/result")
@@ -43,9 +41,4 @@ public class MultiplyController {
         return "result";
     }
 
-    @ExceptionHandler(ValidationException.class)
-    public String handleValidationException(ValidationException ex, Model model) {
-        model.addAttribute("errorMessage", ex.getMessage());
-        return "error_500";
-    }
 }
